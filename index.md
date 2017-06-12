@@ -1,9 +1,9 @@
 ### Mikkel Wilson
 **Engineering Manager | Lead Engineer | Product Development Leader**
 
-mikkel@ellsons.net  
-https://www.github.com/codebudo  
-926.925.963.7417
+<mailto:mikkel@ellsons.net>  
+[https://www.github.com/codebudo]  
+[925.963.7417](tel:9259637417)  
 
 #### Summary
 Engineering leader with a strong technical background in software development. I enjoy cultivating engineers, product managers, and teams to reach their full potential and constantly deliver great products.
