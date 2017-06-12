@@ -1,4 +1,4 @@
-### Mikkel Wilson
+## Mikkel Wilson
 **Engineering Manager | Lead Engineer | Product Development Leader**
 
 <mailto:mikkel@ellsons.net>  
