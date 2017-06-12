@@ -2,7 +2,7 @@
 **Engineering Manager | Lead Engineer | Product Development Leader**
 
 <mailto:mikkel@ellsons.net>  
-<https://www.github.com/codebudo>  
+[https://www.github.com/codebudo](https://www.github.com/codebudo)  
 [925.963.7417](tel:9259637417)  
 
 #### Summary
