@@ -5,16 +5,16 @@
 [https://www.github.com/codebudo](https://www.github.com/codebudo)  
 [925.963.7417](tel:9259637417)  
 
-#### Summary
+### Summary
 Engineering leader with a strong technical background in software development. I enjoy cultivating engineers, product managers, and teams to reach their full potential and constantly deliver great products.
 
-#### Skills
+### Skills
  - Technical Leadership
  - Mentorship and training of engineers and product managers
  - Agile process management
  - Advocating business needs to engineering teams
 
-#### Employment History
+### Employment History
 **Engineering Manager** - Sep 2016 - Present  
 *iCracked Inc. | Redwood City, Ca*  
 Acquire, on-board, mentor and retain team members - both direct and outsourced - to help them grow as Software Engineers and follow industry and company best practices.
@@ -58,7 +58,7 @@ Worked on the AvantGo team developing mobile browsing systems that are the precu
 *CableWholesale.com / RANONE, Inc. / VikinGlobal, Inc.*  
 Built eCommerce, warehouse management, call center, and web applications for several companies.
 
-#### Education
+### Education
 **Las Positas Community College** - 1997-1998  
 General coursework
 
